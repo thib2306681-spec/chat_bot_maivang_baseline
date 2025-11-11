@@ -5,7 +5,7 @@ from PIL import Image
 
 # --- Cấu hình giao diện ---
 st.set_page_config(page_title="Chatbot Mai Vàng", page_icon="🌼")
-st.title("🌼 Chatbot chẩn đoán bệnh trên cây mai vàng")
+st.title("Mô hình chẩn đoán bệnh trên cây mai vàng")
 st.write("Công cụ hỗ trợ người trồng mai xác định bệnh thường gặp và cách xử lý cơ bản.\n")
 
 # --- Nhập mô tả triệu chứng ---
