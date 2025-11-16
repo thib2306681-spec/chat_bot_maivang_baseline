@@ -10,7 +10,7 @@ Xây dựng chatbot cơ bản có thể:
 
 ##Cách cài và chạy
 ##Cần chạy trong môi trường venv
-###Chạy lệnh
+###Chạy lệnh cài môi trường (nếu chưa có)
 python -m venv .env
 source .env/bin/activate
 
