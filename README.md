@@ -8,12 +8,12 @@ Xây dựng chatbot cơ bản có thể:
 - Cho phép tải ảnh minh họa (chưa có AI nhận diện)
 - Là nền tảng cho việc phát triển mô hình chẩn đoán bằng hình ảnh sau này
 
-##Cách cài và chạy
-##Cần chạy trong môi trường venv
-###Chạy lệnh cài môi trường (nếu chưa có)
+## Cách cài và chạy
+## Cần chạy trong môi trường venv
+### Chạy lệnh cài môi trường (nếu chưa có)
 python -m venv .env
 source .env/bin/activate
 
-###Cài đặt thư viện cần thiết
+### Cài đặt thư viện cần thiết
 
 pip install streamlit pillow
